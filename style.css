@@ -1,0 +1,26 @@
+#header {
+  display: flex;
+  width: fit-content;
+  margin: 0 auto;
+  gap: 20px;
+}
+
+#logo {
+  width: 100px;
+}
+
+#board {
+  display: flex;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+#board-img {
+  margin-top: 20px;
+  width: 500px;
+}
+
+body {
+  background-color: burlywood;
+  font-family: "Geist Mono", monospace;
+}
